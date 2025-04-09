@@ -1,6 +1,8 @@
-﻿using System.Text;
+using System;
+using System.IO;
+using System.Text;
 
-namespace LiteDBVersionChecker
+namespace LiteDb.VersionChecker
 {
     public static class LiteDbVersionDetector
     {
