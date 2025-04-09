@@ -64,4 +64,3 @@ MIT — Free for personal and commercial use.
 ---
 
 Contributions welcome! If LiteDB won't merge it, let's improve it together here 😉
-
