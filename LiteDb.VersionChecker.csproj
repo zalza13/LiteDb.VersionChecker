@@ -10,6 +10,7 @@
     <Description>Detect whether a LiteDB file is version 4 or 5</Description>
     <PackageTags>LiteDB database version-checker</PackageTags>
     <RepositoryUrl>https://github.com/zalza13/LiteDb.VersionChecker</RepositoryUrl>
+    <PackageReadmeFile>README.nupkg.md</PackageReadmeFile>
   </PropertyGroup>
 
 </Project>
