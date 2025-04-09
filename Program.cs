@@ -1,3 +1,4 @@
+using LiteDb.VersionChecker;
 using System;
 
 class Program
